@@ -1,0 +1,4 @@
+add_core = SAF
+terrain = savanna
+trade_goods = fruit
+life_rating = 15
